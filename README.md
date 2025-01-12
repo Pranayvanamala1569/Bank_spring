@@ -10,6 +10,7 @@ Our array of products allows you to select based on associated commissions.
 Clients and employees are linked to their respective branches for seamless management. 
 
 **Key Features**
+
 •	You can Create/Update customers info and change the branch they are working in.
 
 •	Validations for all the requested info given.
@@ -19,6 +20,7 @@ Clients and employees are linked to their respective branches for seamless manag
 •	Role based Authentication using Spring Security and Authentication Provider.
 
 **Technologies used**
+
 •	Java
 
 •	Spring Boot
