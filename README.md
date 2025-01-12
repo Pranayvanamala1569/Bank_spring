@@ -1,6 +1,7 @@
 **Core Banking System** 
-Introduction
-A full core banking system for the company made using (Java, Spring Boot, JPA, Spring Security, and PostgreSQL).
+**Introduction**
+
+**A full core banking system for the company made using (Java, Spring Boot, JPA, Spring Security, and PostgreSQL).**
 
 This application offers versatile roles such as teller, loan officer, and admin, each tasked with authorizing loan actions. 
 
